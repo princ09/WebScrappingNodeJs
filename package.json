@@ -1,0 +1,30 @@
+{
+  "name": "webscrapingnodejs",
+  "version": "1.0.0",
+  "description": "Web Scrapping of Imdb website using Node.js , Learning Web Scrapping Only",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/princ09/webscrapingnodejs.git"
+  },
+  "keywords": [
+    "\"Web",
+    "Scrapping\"",
+    "\"NodeJs\""
+  ],
+  "author": "Rajkumar Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/princ09/webscrapingnodejs/issues"
+  },
+  "homepage": "https://github.com/princ09/webscrapingnodejs#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "json2csv": "^5.0.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
+  }
+}
